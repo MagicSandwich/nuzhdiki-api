@@ -1,12 +1,12 @@
 # НУЖДИКИ API
 > "Армянин программист назвал своего сына, Трафик."
 
-[========]
+# 
 
 В Интернете появился сайт психиатрической больницы. 
 Адрес: [www.bbb.mmm.fr.fr.fr](https://nuzhdiki-api.herokuapp.com/ "www.bbb.mmm.fr.fr.fr") 
 
-[========]
+# 
 
 ###Вопрос:- Зачем слону хвост?- Чтобы он не заканчивался внезапно… 
 `npm i`
@@ -16,7 +16,7 @@
 `http://localhost:6969/`
 
 
-[========]
+# 
 
 
 [![ФЬЮТЬ @ ХА](http://risovach.ru/upload/2016/06/mem/hitriy-getsbi_115799248_orig_.jpg "ФЬЮТЬ @ ХА")](https://nuzhdiki-api.herokuapp.com/nuzhdiki "ФЬЮТЬ @ ХА")
