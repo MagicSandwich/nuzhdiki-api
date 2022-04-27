@@ -14,6 +14,12 @@ app.listen(
     () => console.log(`http://localhost:${PORT}`)
 );
 
+app.get('/',(req,res)=>{
+    res.status(200).send({
+        msg: "тут ты найдешь хуй да нихуя. вот так вот. юзай /help."
+    });
+});
+
 app.get('/nuzhdiki',(req,res)=>{
     
     const joke = jokes[Math.floor(Math.random() *jokes.length)];
