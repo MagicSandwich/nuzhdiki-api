@@ -1,0 +1,20 @@
+{
+  "name": "nuzhdiki-api",
+  "version": "0.6.9",
+  "description": "Samiy moschniy API dlya nuzhdikov. FUYT HA!",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "funny",
+    "joke",
+    "humor"
+  ],
+  "author": "MagicSandwich",
+  "license": "ISC"
+}
