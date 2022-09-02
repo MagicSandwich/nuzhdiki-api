@@ -4,7 +4,7 @@
 # 
 
 В Интернете появился сайт психиатрической больницы. 
-Адрес: [www.bbb.mmm.fr.fr.fr](https://nuzhdiki-api.herokuapp.com/ "www.bbb.mmm.fr.fr.fr") 
+Адрес: [www.bbb.mmm.fr.fr.fr](https://nuzhdiki-api.vercel.app/ "www.bbb.mmm.fr.fr.fr") 
 
 # 
 
